@@ -28,8 +28,7 @@ import java.util.Map;
 class qrcode {
 
     // We can do either 1color or rgb
-    static final String LOGO_URL = "https://design.jboss" +
-        ".org/quarkus/logo/final/PNG/quarkus_icon_1color_128px_default.png";
+    static final String LOGO_URL = "https://github.com/jdoyleoss/quarkus-workshops/blob/main/quarkus-workshop-super-heroes/docs/src/resource-generation/Technology_icon-Red_Hat-JBoss_EAP-Standard-RGB.Medium-icon.png";
 
     public static void main(String[] args) throws Exception {
         if (args.length == 0) {
