@@ -29,7 +29,7 @@ class qrcode {
 
     // We can do either 1color or rgb
     //static final String LOGO_URL = "https://github.com/jdoyleoss/quarkus-workshops/blob/main/quarkus-workshop-super-heroes/docs/src/resource-generation/Technology_icon-Red_Hat-JBoss_EAP-Standard-RGB.Medium-icon.png";
-    static final String LOGO_URL = "https://thekibosh.files.wordpress.com/2024/04/technology_icon-red_hat-jboss_eap-standard-rgb.medium-icon.png";
+    static final String LOGO_URL = "https://thekibosh.files.wordpress.com/2024/04/technology_icon-red_hat-jboss_eap-standard-rgb.large-icon.png";
     
     public static void main(String[] args) throws Exception {
         if (args.length == 0) {
